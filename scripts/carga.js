@@ -1,5 +1,5 @@
 let url = 'http://localhost:3333/cadastro'
-let file = 'docs/users.json'
+let file = 'json/users.json'
 
 async function carregardados() {
 

@@ -18,3 +18,4 @@
 # Para rodar a aplicação
 
 Execute npm install ou yarn install para instalar as dependências.
+
