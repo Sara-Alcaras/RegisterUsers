@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<head>
+    <title>Listagem de Usuários</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+</head>
+
+<style>
+    th {
+        color: #fff;
+    }
+</style>
+
+<body>
+    <table class="table table-striped">
+        <tr class="bg-info">
+            <th>ID</th>
+            <th>Nome</th>
+            <th>Email</th>
+            <th>CPF</th>
+            <th>Data de nascimento</th>
+            <th>Endereço</th>
+            <th>Cidade</th>
+            <th>UF</th>
+            <th>Editar</th>
+            <th>Deletar</th>
+        </tr>
+
+        <tbody id="itens">
+
+        </tbody>
+
+    </table>
+</body>
+
+<button class="bg-info" onclick="location.href='/novo.html'" type="button">Novo Usuário</button>
+
+<button class="bg-info" onclick="location.href='/index.html'" type="button">Voltar ao menu</button>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="scripts/atualizar.js"></script>
+
+<script src="scripts/deletar.js"></script>
+<script src="scripts/listar.js"></script>
+
+<html>
