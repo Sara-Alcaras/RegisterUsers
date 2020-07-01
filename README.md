@@ -1,14 +1,12 @@
-O projeto consiste na criação de uma api e uma página de cadastro com a função de adicionar cadastro, deletar cadastro, listar usuários cadastrados e alterar informações de usuários.
+ O projeto consiste na criação de uma aplicação com operações básicas(CRUD), onde utiliza-se uma api que faz a comunicação entre o banco de dados e a aplicação.
  
  # Tecnologias usadas:
 - Node.js
-- Expo
 - KnexJS
 - SQLite
 - JavaScript
 - Express
 - Nodemon
-- Axios
 - Cors
 - HTML
 - CSS
