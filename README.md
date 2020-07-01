@@ -1,6 +1,4 @@
-# Desafio Claravista
-
- O projeto consiste na criação de uma api e uma página de cadastro com a função de adicionar cadastro, deletar cadastro, listar usuários cadastrados e alterar informações de usuários.
+O projeto consiste na criação de uma api e uma página de cadastro com a função de adicionar cadastro, deletar cadastro, listar usuários cadastrados e alterar informações de usuários.
  
  # Tecnologias usadas:
 - Node.js
