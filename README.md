@@ -19,3 +19,6 @@
 
 Execute npm install ou yarn install para instalar as dependências.
 
+# Especificação da API
+
+[Documentação API](https://github.com/Sara-Alcaras/RegisterUsers/blob/master/docs/doc-api.pdf).
